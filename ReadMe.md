@@ -1,0 +1,1 @@
+markeErstellen.sh nimmt Ordner aus $1, nimmt erstes PDF aus diesem und schneidet daraus die Marke aus. Ausgeschnitten wird nur die Marke, weder der Empfänger noch der Absender. Typ von den PDFs sind die von der Post zum überdrucken. Verwendete PDF werden nach "old" verschoben.
